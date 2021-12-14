@@ -2,6 +2,7 @@
 Projects and Laboratories
 ### Contents 
 1- Intro, Linear Regression
+
 2- Maximum Likelihood, Logistic Regression,Clustering
 3- K-Means, Gaussian Mixtures
 4- Kernel Density, Support Vector Machines
