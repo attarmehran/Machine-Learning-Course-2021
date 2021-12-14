@@ -24,3 +24,5 @@ Projects and Laboratories
 11- Generative Models, Naive Bayes, GaussianProcesses
 
 12- Variational Autoencoders, Generative AdversarialNetworks
+
+![image](https://user-images.githubusercontent.com/90406132/145911387-e8c65ff6-3ecb-47fd-955e-2eea58471c09.png)
