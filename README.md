@@ -25,7 +25,7 @@ Projects and Laboratories
 
 12- Variational Autoencoders, Generative AdversarialNetworks
 
-Pattern Recognition and Machine Learning
+reference: Pattern Recognition and Machine Learning
 by Christopher M. Bishop (2006)
 
 ![image](https://user-images.githubusercontent.com/90406132/145911387-e8c65ff6-3ecb-47fd-955e-2eea58471c09.png)
